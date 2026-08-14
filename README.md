@@ -8,6 +8,8 @@
 
 [NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
 
+Even while I'm not interviewing for jobs, I use NeetCode to keep my skills fresh! 
+
 ---
 
 ## How GitHub Sync works
